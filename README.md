@@ -1,4 +1,4 @@
-# Cryptography
+# Cryptography (Level II)
 
 *Challenge by Jack Boffa, HHS '14*
 
