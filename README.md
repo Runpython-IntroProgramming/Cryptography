@@ -53,17 +53,14 @@ adding) from each character in the message its corresponding character in the ke
 ```
 Enter e to encrypt, d to decrypt, or q to quit: z
 Did not understand command, try again.
-
 Enter e to encrypt, d to decrypt, or q to quit: e
 Message: Two plus two = Five
 Key: Lorem ipsum
 +KF;B(CH=NIZ}m;R\Dt
-
 Enter e to encrypt, d to decrypt, or q to quit: d
 Message: +KF;B(CH=NIZ}m;R\Dt
 Key: Lorem ipsum
 Two plus two = Five
-
 Enter e to encrypt, d to decrypt, or q to quit: q
 Goodbye!
 ```
