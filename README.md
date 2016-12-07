@@ -2,7 +2,8 @@
 
 *Challenge by Jack Boffa, HHS '14*
 
-In this challenge, you will be writing an implementation of a basic encryption algorithm. Encryption 
+In this challenge, you will be writing an implementation of a basic encryption algorithm (similar to 
+[the Vigenère cipher](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher)). Encryption 
 (more broadly known as cryptography) is the process of protecting data by making it readable only by 
 those with the authority to see it. Encryption generally works using keys -- passwords used by the 
 algorithm to jumble the sensitive data in some way. Someone who wants to encrypt a secret message chooses 
